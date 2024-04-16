@@ -1,5 +1,9 @@
 Rodar aplicação:
 
+Instalar .NET8.0
+
+https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-8.0.204-windows-x64-installer
+
 Abrir Command Line;
 cd {yourPath}\BooksApi\BooksApi\;
 dotnet run
