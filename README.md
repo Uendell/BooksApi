@@ -1,6 +1,6 @@
-Run aplication:
+Rodar aplicação:
 
-Open Command Line;
+Abrir Command Line;
 cd {yourPath}\BooksApi\BooksApi\;
 dotnet run
 
